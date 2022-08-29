@@ -2,7 +2,7 @@
   - Programa em dart que dado um número inteiro positivo como entrada, calcula o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado
 
 # Execucao
-  - Ter o dart instalado
+  - Instalar o dart
   - Rodar o comando abaixo no diretório da pasta do arquivo:
   - dart run calculaSomatorioInteiros.dart
   - Digitar uma entrada e dar enter
